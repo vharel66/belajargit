@@ -1,1 +1,1 @@
-belajar git hari kamis
+belajar git pada hari kamis pagi
